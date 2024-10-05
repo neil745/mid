@@ -1,0 +1,59 @@
+body{
+    overflow-x: hidden;
+    background: linear-gradient(
+        to right,
+        rgb(65, 65, 246),
+        rgb(71, 189, 236)
+    );
+}
+.navbar{
+    background: linear-gradient(
+        to right,
+        rgb(65, 65, 246),
+        rgb(71, 189, 236)
+    );   
+}
+.nike{
+    width: 100px;
+    height: 20px;
+}
+#carouselExampleDark {
+    width: 75%; 
+    height: 100%; 
+    margin: auto; 
+    
+}
+  
+.carousel-inner img {
+    width: 100%; 
+    height: 650px;
+    border-radius: 70px;
+    margin-top: 80px;
+}
+.prod{
+    margin-top: 150px;
+}
+div.scroll-container {
+    border: solid white 0.1px;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+div.scroll-container img {
+    padding: 10px;
+}
+.gall{
+    width: 600px;
+    height: 400px;
+}
+.key{
+    margin-top: 200px;
+}
+.cards{
+    border: solid white 0.1px;
+    background: white;
+    margin-left: 70px;
+}
+.price{
+     margin-top: 200px;
+}
